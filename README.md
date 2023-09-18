@@ -22,10 +22,10 @@ available to help and learn together.
 
 ## My GitHub Status <img src="media/star.gif" width="40px">
 <p>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ratinkumar&show_icons=true&locale=en&layout=compact" alt="ratinkumar :)" />
-<img  src="https://github-readme-stats.vercel.app/api?username=ratinkumar&show_icons=true&locale=en" alt="ratinkumar">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ratinkumar&show_icons=true&theme=merko" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratinkumar&layout=compact&theme=merko" />
+ 
 </p>
-
 <br>
 
 ## My Skills<img src="media/skills.gif" height="50px">
@@ -112,7 +112,7 @@ available to help and learn together.
 
 ## Want to know more? <img src="media/Developer.gif" width="45px">
 [<img alt="portfolio link" src="https://img.shields.io/badge/Linkedin-ratinkumar-blue" />](https://www.linkedin.com/in/ratinkumar001/) <br>
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-ratin1589kumar@gmail.com-yellow" />](mailto:ratin1589kumar@gmail.com) <br>
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-ratin1589kumar@gmail.com-radical" />](mailto:ratin1589kumar@gmail.com) <br>
 [<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-ratinkumar-orange" />](https://leetcode.com/ratin_kumar/) <br>
 [<img alt="portfolio link" src="https://img.shields.io/badge/HackerRank-ratinkumar-green" />](https://www.hackerrank.com/ratin_kumar)
 
