@@ -111,5 +111,8 @@ available to help and learn together.
 <br>
 
 ## Want to know more? <img src="media/Developer.gif" width="45px">
-[<img alt="email" src="https://img.shields.io/badge/Email%20me-ratin1589kumar@gmail.com-blue" />](mailto:ratin1589kumar@gmail.com) <br>
-[<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-ratin_kumar-orange" />](https://leetcode.com/ratin_kumar/) 
+[<img alt="portfolio link" src="https://img.shields.io/badge/Linkedin-ratinkumar-blue" />](https://www.linkedin.com/in/ratinkumar001/) <br>
+[<img alt="email" src="https://img.shields.io/badge/Email%20me-ratin1589kumar@gmail.com-yellow" />](mailto:ratin1589kumar@gmail.com) <br>
+[<img alt="portfolio link" src="https://img.shields.io/badge/Leetcode-ratinkumar-orange" />](https://leetcode.com/ratin_kumar/) <br>
+[<img alt="portfolio link" src="https://img.shields.io/badge/HackerRank-ratinkumar-green" />](https://www.hackerrank.com/ratin_kumar)
+
