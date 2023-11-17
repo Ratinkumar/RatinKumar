@@ -77,8 +77,8 @@ available to help and learn together.
 
 <!--<td align="center" width="33%">
 <img height=60px src="media/node js.png"> 
-</td>
-</tr>-->
+</td>-->
+</tr>
 
 </tbody>
 </table>
@@ -96,10 +96,12 @@ available to help and learn together.
 <td align="center" width="33%">
 <img height=60px src="media/scikit.png"> 
 </td>
- </td>
-<td align="center" width="33%">
-<img height=60px src="media/tensorflow.png"> 
+<tr>
+ <td align="center" width="33%">
+<img height=100px src="media/tensorflow1.png"> 
 </td>
+</tr>
+
 </tr>
 
 </tbody>
