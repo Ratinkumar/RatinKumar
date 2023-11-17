@@ -75,10 +75,10 @@ available to help and learn together.
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<!--<td align="center" width="33%">
 <img height=60px src="media/node js.png"> 
 </td>
-</tr>
+</tr>-->
 
 </tbody>
 </table>
@@ -95,6 +95,10 @@ available to help and learn together.
 </td>
 <td align="center" width="33%">
 <img height=60px src="media/scikit.png"> 
+</td>
+ </td>
+<td align="center" width="33%">
+<img height=60px src="media/tensorflow.png"> 
 </td>
 </tr>
 
